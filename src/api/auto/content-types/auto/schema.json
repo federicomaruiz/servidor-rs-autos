@@ -1,0 +1,94 @@
+{
+  "kind": "collectionType",
+  "collectionName": "autos",
+  "info": {
+    "singularName": "auto",
+    "pluralName": "autos",
+    "displayName": "auto",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "marca": {
+      "type": "string"
+    },
+    "modelo": {
+      "type": "string"
+    },
+    "precio": {
+      "type": "string"
+    },
+    "ano": {
+      "type": "integer"
+    },
+    "color": {
+      "type": "string"
+    },
+    "combustible": {
+      "type": "string"
+    },
+    "puertas": {
+      "type": "string"
+    },
+    "transmision": {
+      "type": "string"
+    },
+    "motor": {
+      "type": "string"
+    },
+    "carroceria": {
+      "type": "string"
+    },
+    "kilometros": {
+      "type": "string"
+    },
+    "imagen": {
+      "type": "string"
+    },
+    "imagen1": {
+      "type": "string"
+    },
+    "imagen2": {
+      "type": "string"
+    },
+    "imagen3": {
+      "type": "string"
+    },
+    "imagen4": {
+      "type": "string"
+    },
+    "imagen5": {
+      "type": "string"
+    },
+    "imagen6": {
+      "type": "string"
+    },
+    "imagen7": {
+      "type": "string"
+    },
+    "imagen8": {
+      "type": "string"
+    },
+    "imagen9": {
+      "type": "string"
+    },
+    "imagen10": {
+      "type": "string"
+    },
+    "imagen11": {
+      "type": "string"
+    },
+    "imagen12": {
+      "type": "string"
+    },
+    "imagen13": {
+      "type": "string"
+    },
+    "images": {
+      "type": "json"
+    }
+  }
+}
